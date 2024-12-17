@@ -24,7 +24,8 @@ Also, our trained BERT model: https://drive.google.com/drive/folders/1TeOfVXg-rW
 You can also find our datasets, experiments results, as well as the processed syllabus (already contained in this repo) from the link above.
 
 It's also necessary to apply an API key from togetherAI: https://api.together.xyz/signin
-Recommend: Put the API key in a .env file for safety.
+
+Recommend: Put the API key in .env file for safety.
 
 Then, change the model path in python scripts.
 
