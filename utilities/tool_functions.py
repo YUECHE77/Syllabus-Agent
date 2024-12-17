@@ -41,7 +41,7 @@ def RAG(**kwargs):
     final_syllabus = find_syllabus(query, model, database)
     # print(final_syllabus)
 
-    file_path = r'D:\CSCI544_project_code\syllabus' + os.sep + final_syllabus
+    file_path = '../syllabus' + os.sep + final_syllabus
     knowledge_base = read_and_split_file(file_path)
 
     query = [query]
