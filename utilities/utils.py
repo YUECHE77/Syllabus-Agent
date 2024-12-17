@@ -222,6 +222,9 @@ def parse_answer(answer: str):
 
 
 def test_func(content):
+    """
+    Just for test
+    """
     function_regex = r"<function=([a-zA-Z_]\w*)>(\{.*?\})\s*\"?\s*(?:</function>|<function(?:/[\w]*)?>)"
     match = re.search(function_regex, content)
 
