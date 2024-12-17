@@ -1,0 +1,65 @@
+Basic information:
+Units: 4
+Weekly Schedule: Tue/Thu, 4:00-5:50 PM
+Classroom Location: SAL 101
+
+##
+Instructor:
+Instructor: Swabha Swayamdipta (Office: SAL 238, with office hours on Zoom on Wednesdays (8-9 AM). Email: swabhas@usc.edu)
+
+##
+Teaching Assistants: 
+Brihi Joshi (Office: RTH 314. Office hours: Tue 10-11 AM. Email: brihijos@usc.edu), 
+Ting-Yun Chang (Office: PHE 102. Office hours: Thu 10-11 AM. Email: tingyun@usc.edu), 
+Matthew Finlayson (Office: TBA. Office hours: TBA. Email: TBA), 
+Sayan Ghosh (Office: RTH 420. Office hours: Fri 11-12 PM. Email: ghoshsay@usc.edu), 
+Abel Salinas Jr. (Office: SAL 213. Office hours: Thu 3-4 PM. Email: abelsali@usc.edu), 
+Ziyi Liu (Office: PHE101, also on zoom: https://usc.zoom.us/my/zliu2803. Office hours: Wed 3-4 PM. Email: zliu2803@usc.edu)
+
+##
+Graders: 
+Shahzaib Saqib Warraich, Neeharika Gupta, Xingjian Dong, Smit Shah
+
+##
+Course Description: 
+The course delves into Natural Language Processing (NLP), emphasizing Language Models. It covers fundamentals and advanced NLP topics, including large-scale language models and their real-world implications, such as ethics. Students will develop skills in classical and modern NLP practices, along with hands-on experience in training and evaluating language models.
+
+##
+Textbooks and materials:
+Textbook1: Jurafsky and Martin, "Speech and Language Processing" (3rd Ed). This textbook contains chapters on the fundamentals of natural language processing. https://web.stanford.edu/~jurafsky/slp3/
+Textbook2: Eisenstein's "Natural Language Processing". This textbook contains an overview of machine learning approaches for NLP. https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+Textbook3: Goldberg's "Neural Network Methods for Natural Language Processing". This textbook provides a deep learning perspective towards NLP.
+
+All materials will be available on the course website.
+
+##
+Late Policy:
+Late Day Policies: Students are allowed a maximum of 6 late days total for all assignments, and may use up to 3 late days per assignment. Using one late day for a project
+assignment involves each of the teammates using a late day each.
+
+##
+Homework: 
+There are four coding homework assignments, graded on a scale of 0-100. Late submissions are penalized (20% per day after allowed late days).
+
+##
+Course Project: 
+Students will work in teams of five. The project has multiple stages:
+1. Proposal (Week 6, 4% of total grade)
+2. Status Report (Week 10, 8% of total grade)
+3. Final Write-up (Week 13, 18% of total grade)
+4. Project Presentation: (10% of total grade)
+
+##
+Grading:
+Quizzes: 10%
+Homework: 20%
+Paper Presentations: 5%
+Course Project: 40%
+Midterm Exam: 10%
+Final Exam: 15%
+
+##
+Exams and Important Dates:
+Midterm: October 15, 2024
+Final Exam: December 5, 2024
+Final Project Report Due: December 17, 2024

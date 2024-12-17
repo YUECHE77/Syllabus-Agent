@@ -1,0 +1,55 @@
+Basic Information:
+Units: Not explicitly mentioned (likely 4 units)
+Weekly Schedule: Not explicitly mentioned
+
+##
+Instructor:
+Instructor: Yan Liu
+Office: TBD
+Office Hours: Wed 10am
+Office Hours Sign-Up Link: Google Spreadsheet Link
+
+##
+Teaching Assistants: 
+Information will be available after the first class on Piazza
+
+##
+Course Description:
+This course offers a comprehensive introduction to the mathematical foundations of machine learning (ML) and various deep learning (DL) models and their applications. Topics include fundamental ML techniques, advanced DL applications such as computer vision and natural language processing, and their impact on fields like image recognition and autonomous systems. The course includes hands-on assignments and a customizable final project.
+
+##
+Textbooks and Materials:
+Textbook1: Deep Learning (MIT Press) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+Free online version: deeplearningbook.org
+Texkbook2: Mathematics for Machine Learning (Cambridge University Press) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+Free online version: mml-book.github.io
+
+##
+Homework:
+No homework mentioned
+
+##
+Quizzes:
+3 in-class quizzes, with exercise questions and solutions provided in advance (solutions not graded)
+
+##
+Project: 
+Groups of 2-4, topics open to applied ML or research projects
+Pre-proposal: 10%
+Midterm Report: 30%
+Presentation: 30%
+Final Report: 30%
+
+##
+Grading:
+In-class Quizzes: 30% (10% each)
+Midterm: 20%
+Course Project: 50%
+
+##
+Exams and Important Dates:
+Quiz 1: Week 4 (Sep 17)
+Quiz 2: Week 7 (Oct 8)
+Midterm Exam: Week 10 (Oct 29): Closed book with multiple-choice and computational questions
+Quiz 3: Week 13 (Nov 19)
+Final Project Report Due: December 4, 2024

@@ -1,0 +1,45 @@
+Basic Information:
+Units: Not explicitly mentioned
+Schedule:
+Class Hours: Thursday 2-6 pm
+Classroom Loaction: SGM 911
+
+##
+Instructor:
+Instructor: Morteza Dehghani
+Office: SGM 607
+Email: mdehghan@usc.edu
+Office Hours: Monday 10 am-12 pm
+
+##
+Teaching Assistants:
+Not explicitly mentioned
+
+##
+Course Description:
+This course focuses on applications of Natural Language Processing (NLP) in analyzing social and cognitive properties evident in human-related data, guided by psychological theories. The course surveys various NLP techniques, especially Large Language Models (LLMs), for investigating human cognition. The target audience includes PhD students in psychology and computer science, as well as other graduate students interested in using NLP for data analysis.
+
+##
+Textbooks and Materials:
+Required Book:
+Pennebaker, J. (2011). The Secret Life of Pronouns: What Our Words Say About Us. New York, NY: Bloomsbury.
+
+##
+Homework:
+Reaction Paragraphs: Weekly reactions to reading assignments (30% of the grade).
+
+##
+Project:
+Class Project: Group-based interdisciplinary projects combining social science theory and NLP techniques, including project proposal, updates, final presentation, and report (40% of the grade).
+Discussion Participation: 30% of the grade.
+
+##
+Grading:
+Discussion Participation: 30%
+Reaction Paragraphs: 30%
+Project Status Updates: 15%
+Final Project Presentation and Write-up: 25%
+
+##
+Exams and Important Dates:
+Final Project Report Due: On the day of the final exam

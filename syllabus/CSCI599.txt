@@ -1,0 +1,55 @@
+Basic Information:
+Units: 4
+Weekly Schedule: Tuesday/Thursday 12:00-1:50 PM
+Classroom Location: TBD
+
+##
+Instructor:
+Instructor: Seo Jin Park
+Office: TBD
+Office Hours: TBD
+Contact Info: Contact via Piazza or email (seojinpark.net)
+
+##
+Teaching Assistants:
+Not explicitly mentioned
+
+##
+Course Description:
+This course introduces distributed systems, focusing on scalability and the complexities brought by distribution. Students will explore both industry and academic solutions to challenges in large-scale systems, fault-tolerance, data consistency, data-parallel systems, and more. The course includes paper readings, lab projects, and an optional final project.
+
+##
+Textbooks and Materials:
+No Required Textbook:
+Reading materials will be posted online one week before each lecture.
+Sample Readings:
+[GFS] Google File System
+[RAMCloud] The RAMCloud Storage System
+[Raft] Consensus Algorithms
+[Spanner] Google’s Globally-Distributed Database
+[MapReduce] Simplified Data Processing on Large Clusters
+[Ray] A Distributed Framework for AI Applications
+
+##
+Homework:
+Paper Summaries and Questions: Students will submit summaries and responses to questions for each paper.
+
+##
+Project:
+Lab Projects: Four C++ programming lab assignments (35% of the grade), with the first lab done individually and the rest in pairs.
+Optional Final Project: Teams of 2-3 students can opt for a final project to replace their lowest quiz or lab score.
+
+##
+Grading:
+Lab Assignments: 35%
+Quizzes: 45%
+Homeworks: 10%
+Class Participation: 10%
+Final Project (Optional): Can replace the lowest quiz or lab score.
+
+##
+Exams and Important Dates:
+Quiz 1: Week 5
+Quiz 2: Week 9
+Quiz 3 and Project Demo: Week 15
+Final Project Due: On the university-scheduled final exam date

@@ -1,0 +1,50 @@
+Basic Information:
+Units: Not explicitly mentioned
+Schedule: Not explicitly mentioned
+
+##
+Instructor:
+Instructor: Prof. Ram Nevatia
+Email: nevatia@usc.edu
+Office Hours: TBD
+Office Location: TBD
+
+##
+Teaching Assistants:
+TBD
+
+##
+Course Description:
+The course covers advanced topics in computer vision, including traditional model-based methods and modern deep-learning techniques. It focuses on fundamental algorithms and state-of-the-art methods, addressing challenges in vision, image processing, and recognition.
+
+##
+Textbooks and Materials:
+Required Books:
+Textbook1: Computer Vision: A Modern Approach by D. Forsyth and J. Ponce (2010)
+Textbook2: Deep Learning: Algorithms and Applications by I. Goodfellow, Y. Bengio, and A. Courville (2017)
+Textbook3: A Guide to Convolutional Neural Networks for Computer Vision by S. Khan, et al. (2018)
+
+Recommended Books:
+Computer Vision: Algorithms and Applications by Richard Szeliski (2021)
+Foundations of Computer Vision by A. Torralba, P. Isola, and W.T. Freeman (2024)
+
+##
+Homework and Project:
+Two exams (each 25% of the grade)
+Term paper (10%) due on Dec 12, 2024
+One mathematical assignment and 5-6 programming assignments (30%)
+Attendance: 10% (DEN students automatically receive full credit)
+
+##
+Grading:
+Exam 1: 25%
+Exam 2: 25%
+Term Paper: 10%
+Assignments: 30%
+Attendance: 10%
+
+##
+Exams and Important Dates:
+Exam 1: Middle of the term (Date TBD)
+Exam 2: End of the term (Date TBD)
+Term Paper Due: Dec 12, 2024

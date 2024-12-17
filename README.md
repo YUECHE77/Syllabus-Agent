@@ -21,12 +21,12 @@ You need to download the following models from huggingface:
 
 Also, our trained BERT model: https://drive.google.com/drive/folders/1TeOfVXg-rWr4_MvtsC4pbL9k5HXgsFF7?usp=sharing
 
-You can also find our datasets, experiments results, as well as the processed syllabus (which is required to run the code) from the link above.
+You can also find our datasets, experiments results, as well as the processed syllabus (already contained in this repo) from the link above.
 
 It's also necessary to apply an API key from togetherAI: https://api.together.xyz/signin
 Recommend: Put the API key in a .env file for safety.
 
-Then, change the model path in python scripts. And the 'file_path' in utilities/tool_functions.py line 44 to link to the syllabus files. 
+Then, change the model path in python scripts.
 
 We provide:
 

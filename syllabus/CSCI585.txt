@@ -1,0 +1,45 @@
+Basic Information:
+Units: 4
+Weekly Schedule: Lecture Friday 2-4:20 pm, Discussion Friday 4:30-5:20 pm
+Classroom Location: SGM 123
+
+##
+Instructor:
+Instructor: Shahram Ghandeharizadeh
+Office: SAL 208
+Office Hours: Mon 2-3:30 pm, Thu 3-4 pm
+Contact Info: shahram@usc.edu, 213-740-4781
+
+##
+Teaching Assistants:
+Not explicitly mentioned
+
+##
+Graders:
+Not explicitly mentioned
+
+##
+Course Description:
+This course introduces students to parallel database management systems that scale in a data center and across data centers, physical organization of data for enhanced performance and availability, NoSQL, cache-augmented database systems and memory management, disaggregated database systems, transactional storage managers, and data analytics. The discussion sections cover topics like ACID transactions, relational models, SQL, index structures, relational algebra, and more. Guest lectures from leading researchers will provide real-world insights.
+
+##
+Textbooks and Materials:
+Required Readings:
+Course notes, slides, and readings will be posted on USC Brightspace.
+Students are expected to use ACM/IEEE/Springer digital libraries.
+
+##
+Homework and project:
+No homework or project 
+
+##
+Grading:
+Exam 1: 40% (Oct 18, 2024)
+Exam 2: 40% (Dec 6, 2024)
+Class Participation: 20% (DEN students exempt from participation)
+Note: There is no comprehensive final exam; Exam 2 covers material after Exam 1.
+
+##
+Exams and Important Dates:
+Exam 1: Oct 18, 2024
+Exam 2: Dec 6, 2024

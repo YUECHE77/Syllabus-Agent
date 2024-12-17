@@ -1,0 +1,47 @@
+Basic Information:
+Units: 4
+Weekly Schedule: Wednesdays 2:00-5:20 PM
+Classroom Location: DMC 205
+
+##
+Instructor:
+Instructor: Yue Wang
+Office: PHE 223
+Office Hours: TBD
+Contact Info: yue.w@usc.edu
+
+##
+Teaching Assistants:
+Not explicitly mentioned
+
+##
+Course Description:
+This course covers advanced topics in robotic perception, including multi-view reconstruction, visual reasoning, visual-centric manipulation and locomotion, and 3D deep learning for robotics. The focus is on state-of-the-art methods for robotic perception and scene understanding, integrating recent tools like Neural Fields, Generative Models, and Foundation models to show how embodied agents learn to perceive physical environments.
+
+##
+Textbooks and Materials:
+Required Reading:
+Deep learning for computer vision: https://cs231n.stanford.edu
+Optional Readings: TBD
+
+##
+Homework:
+Assignments: Three assignments, each worth 15%
+
+##
+Course Project: 
+50% of the grade, focusing on the technical novelty and soundness of a project at the intersection of computer vision and robotics
+Participation: 5%
+
+##
+Grading:
+Assignment 1: 15%
+Assignment 2: 15%
+Assignment 3: 15%
+Project: 50%
+Participation: 5%
+
+##
+Exams and Important Dates:
+Final Project Presentation: Week 14 and 15
+Final Project Report Due: On the university-scheduled final exam date

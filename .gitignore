@@ -4,7 +4,6 @@ binary_classifier/dataset/val.csv
 binary_classifier/dataset/Sample_data.csv
 dataset/
 models/CSCI544_Bert_best.pth
-syllabus/
 templates/
 .env
 localized_multi_turn_demo.py

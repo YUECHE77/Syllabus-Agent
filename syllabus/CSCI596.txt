@@ -1,0 +1,44 @@
+Basic Information:
+Units: Not explicitly mentioned (likely 4 units)
+Weekly Schedule:
+Lecture: Mon/Wed 3:30-4:50 pm, SOS B2
+Hands-on: Friday 3:30-4:20 pm, ZHS 159
+
+##
+Instructor:
+Instructor: Aiichiro Nakano
+Office: VHE 610
+Email: anakano@usc.edu
+
+##
+Teaching Assistants:
+Taufeq Razakh (razakh@usc.edu)
+Kai Chen (kchen035@usc.edu)
+Pranav Jain (pranavj@usc.edu)
+Office Hours: Friday 4:30-5:20 pm, VHE 610
+
+##
+Course Description:
+This course focuses on particle and continuum simulations to teach basic elements of scientific computing and visualization. Students gain experience in mathematical modeling, numerical solution methods, parallel computing, scientific visualization, and data analysis, with hands-on experience in parallel programming using MPI, OpenMP, and GPU programming (CUDA). The course also covers scientific big data and machine learning techniques.
+
+##
+Textbooks and Materials:
+Recommended Textbooks:
+Textook1: W. D. Gropp, E. Lusk, and A. Skjellum, Using MPI, 2nd Ed.
+Textook2: M. Woo et al., OpenGL Programming Guide, Version 4.5
+Textook3: A. Grama, A. Gupta, G. Karypis, and V. Kumar, Introduction to Parallel Computing, 2nd Ed.
+
+##
+Homework and Project:
+6-8 programming projects throughout the semester (85% of the grade)
+Final project report due Dec 13, 2024 (15% of the grade)
+
+##
+Grading:
+Assignments: 85%
+Final Project: 15%
+Grading scale: A (100-90%), A- (90-85%), B+ (85-80%), B (80-75%), B- (75-70%), C (70-60%), D (60-50%)
+
+##
+Exams and Important Dates:
+Final Project Report Due: Dec 13, 2024
