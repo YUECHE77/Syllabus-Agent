@@ -1,0 +1,3 @@
+Put them under this folder. Or any folder you want.
+
+Mine: D:\HuggingFace_models

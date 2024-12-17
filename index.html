@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabus Agent</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f5f5f7;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 20px 40px;
+            background-color: #fff;
+            border-bottom: 1px solid #e0e0e0;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        .header h1 {
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #1d1d1f;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+        .chat-box {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            height: 500px;
+            overflow-y: auto;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .message {
+            margin-bottom: 20px;
+        }
+        .message.user {
+            text-align: right;
+        }
+        .message.user p {
+            background-color: #0071e3;
+            color: #fff;
+            display: inline-block;
+            padding: 12px 18px;
+            border-radius: 20px;
+            margin: 0;
+            max-width: 70%;
+        }
+        .message.agent {
+            text-align: left;
+        }
+        .message.agent p {
+            background-color: #f0f0f0;
+            display: inline-block;
+            padding: 12px 18px;
+            border-radius: 20px;
+            margin: 0;
+            max-width: 70%;
+        }
+        .form {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .form input[type="text"] {
+            flex: 1;
+            padding: 15px;
+            border: 1px solid #d2d2d7;
+            border-radius: 8px;
+            font-size: 1em;
+            outline: none;
+            transition: border-color 0.2s ease-in-out;
+        }
+        .form input[type="text"]:focus {
+            border-color: #0071e3;
+        }
+        .form button {
+            padding: 15px 20px;
+            background-color: #0071e3;
+            color: #fff;
+            font-size: 1em;
+            font-weight: 600;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+        }
+        .form button:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Syllabus Agent</h1>
+    </div>
+
+    <div class="container">
+        <div class="chat-box" id="chatBox">
+            <div class="message agent">
+                <p>How can I help you?</p>
+            </div>
+        </div>
+
+        <form id="queryForm" class="form">
+            <input type="text" id="query" name="query" placeholder="Type your question here...">
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chatBox');
+        const queryForm = document.getElementById('queryForm');
+
+        queryForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const userQuery = document.getElementById('query').value;
+
+            if (!userQuery) {
+                alert('Please enter a message.');
+                return;
+            }
+
+            addMessage('user', userQuery);
+
+            document.getElementById('query').value = '';
+
+            fetch('/query', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query: userQuery })
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage('agent', data.response);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                addMessage('agent', 'Sorry, something went wrong.');
+            });
+        });
+
+        function addMessage(sender, text) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', sender);
+            const messageContent = document.createElement('p');
+            messageContent.textContent = text;
+            messageDiv.appendChild(messageContent);
+            chatBox.appendChild(messageDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</body>
+</html>
