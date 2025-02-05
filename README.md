@@ -19,11 +19,11 @@ You need to download the following models from huggingface:
 3. BAAI/bge-reranker-base
 4. NousResearch/Hermes-2-Pro-Llama-3-8B (Not required)
 
-Also, our trained BERT model: https://drive.google.com/drive/folders/1TeOfVXg-rWr4_MvtsC4pbL9k5HXgsFF7?usp=sharing
+Also, our trained BERT model: [BERT model weight](https://drive.google.com/drive/folders/1TeOfVXg-rWr4_MvtsC4pbL9k5HXgsFF7?usp=sharing)
 
 You can also find our datasets, experiments results, as well as the processed syllabus (already contained in this repo) from the link above.
 
-It's also necessary to apply an API key from togetherAI: https://api.together.xyz/signin
+It's also necessary to apply an API key from togetherAI: [TogetherAI API](https://api.together.xyz/signin)
 
 Recommend: Put the API key in .env file for safety.
 
@@ -36,6 +36,9 @@ We provide:
 3. `user_interface.py` as our final and ultimate version of work. You are able to interact with our agent in a well-designed UI (by us). Use `python user_interface.py`
 
 Additionally, we also have localized version and multiple-functions version.
+
+Example:
+<p align="center"><img src="images/example.png" alt="example" width="400"></p>
 
 ## Introduction to the repository
 
